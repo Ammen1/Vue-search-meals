@@ -2,7 +2,7 @@
 
 
 ## Demo
-[https://tc-search-meals.netlify.app](https://tc-search-meals.netlify.app/)
+
 
 ## Installation
 1. Clone the repository
